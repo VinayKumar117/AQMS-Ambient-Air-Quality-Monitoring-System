@@ -1,4 +1,4 @@
-# Air-Quality-Sensor-
+# Air-Quality-Sensor using Arduino-
 An air quality sensor is a device that measures and detects various pollutants in the air.
 The results of an air quality sensor can provide important information about the
 levels of various pollutants in the air. Some common pollutants that are measured by air quality sensors include
