@@ -1,4 +1,4 @@
-# Air-Quality-Sensor using Arduino-
+# Air Quality Sensor
 
 Air is getting polluted because of release of toxic gases by industries, vehicle emissions and increased concentration of harmful gases and particulate matter in the atmosphere. The level of pollution is increasing rapidly due to factors like industries, urbanization, increasing in population, vehicle use which can affect human health. Particulate matter is  one of  the  most  important  parameter having  the  significant  contribution  to the increase in air pollution . This creates a need for measurement and analysis of real-time air quality monitoring so that appropriate decisions can be taken in a timely period.
 
