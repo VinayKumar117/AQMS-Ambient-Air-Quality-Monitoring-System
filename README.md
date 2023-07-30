@@ -1,4 +1,4 @@
-# Air Quality Sensor(On going)
+# Ambient Air Quality Monitoring System(AQMS)
 Breathe easy with real-time air quality monitoring
 
 Air is an essential component of life on Earth, and it plays a vital role in supporting human health, agriculture, and the environment. In fact,An average human being requires nearly 12-15 times more air than the food. In recent years, car emissions, chemicals from factories, smoke and dust are  everywhere. That is the reason why now air condition is  much polluted. The effect of air pollution is very bad for our health. Lungs may cause some diseases, such as asthma, cough, lung disorders. The air pollution may contain a lot of dangerous substances, such as LPG gas, carbon monoxide, and methane. Substances in the polluted air are very dangerous. For example, if the carbon monoxide is above 100ppm, it makes human feel dizzy, nauseous, and within minutes they could die.
